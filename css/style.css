@@ -23,17 +23,6 @@ a {
 	color: #616161;
 }
 
-/*@media only screen and (max-width: 992px) {
-  body {
-    width: 100%;
-  }
-}*/
-
-@media only screen and (max-width: 992px) {
-  .colonne-g {
-    height: auto !important;
-  }
-}
 
 /*  -----------  header  -----------*/
 
@@ -51,8 +40,8 @@ a {
 
 .colonne-g, .colonne-g2{
 	background-color: #40c4ff;
-	margin: 0 !important;
-	padding-right: 0 !important;
+	margin: 0;
+	padding-right: 0;
 }
 
 .colonne-g2 {
@@ -62,21 +51,21 @@ a {
 .titre-g {
 	background-color: #616161;
 	text-align: center;
-	padding-right: 0 !important;
+	padding-right: 0;
 
 
 }
 
 .titre-g h3 {
 	color: #40c4ff;
-	margin: 0 !important;
+	margin: 0;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
 
 .colonne-g p, .colonne-g2 p {
 	color: #616161;
-	margin: 0 !important;
+	margin: 0;
 	padding: 20px;
 }
 
@@ -183,7 +172,6 @@ a {
 
 .fa-html5 {
 	color: #40c4ff;
-	margin-top: 20px;
 	margin-bottom: 20px;
 }
 .fa-css3 {
@@ -194,7 +182,6 @@ a {
 }
 .fa-wordpress {
 	color: #40c4ff;
-	margin-top: 20px;
 	margin-bottom: 20px;
 
 }
@@ -204,4 +191,14 @@ a {
 }
 .fa-bootstrap {
 	color: #40c4ff;
+}
+
+
+@media only screen and (max-width: 992px) {
+  .colonne-g {
+    height: auto;
+  }
+  .colonne-g2 {
+  	height: 200px;
+  }
 }
