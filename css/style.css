@@ -2,6 +2,7 @@ body {
 	width: 90%;
 	max-width: 1280px;
   	margin: auto !important;
+	font-family: 'Poppins', sans-serif;
 }
 
 img {
@@ -193,12 +194,20 @@ a {
 	color: #40c4ff;
 }
 
-
+@media only screen and (max-width: 1219px) {
+  .colonne-g2 {
+  	height: 625px;
+  }
+}
 @media only screen and (max-width: 992px) {
   .colonne-g {
     height: auto;
   }
   .colonne-g2 {
   	height: 200px;
+  }
+  .periodeinfo {
+  	display: flex;
+  	flex-direction: column;
   }
 }
