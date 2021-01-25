@@ -54,7 +54,7 @@ a {
 }
 
 .colonne-g2 {
-	height: 420px;
+	height: 435px;
 }
 
 .titre-g {
@@ -98,6 +98,10 @@ a {
 }
 
 /*----------- colonne droite ------------*/
+
+li::marker {
+	color: #40c4ff;
+}
 
 .colonne-d h2 {
 	border-bottom: 3px solid #40c4ff;
