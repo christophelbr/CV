@@ -18879,6 +18879,22 @@ tv:
     - solid
   unicode: f26c
   voted: false
+surf:
+  changes:
+    - '4.4'
+    - 5.0.0
+    - 5.11.0
+  label: surf
+  search:
+    terms:
+      - computer
+      - display
+      - monitor
+      - television
+  styles:
+    - solid
+  unicode: f26c
+  voted: false
 twitch:
   changes:
     - '4.2'

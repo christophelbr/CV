@@ -256,6 +256,8 @@ tachometer:
   name: tachometer-alt
 television:
   name: tv
+surf:
+  name: surf
 thumb-tack:
   name: thumbtack
 thumbs-o-down:

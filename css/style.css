@@ -78,9 +78,9 @@ a {
 	padding: 20px;
 }
 .loisirs i {
-	width: 64px;
+	width: 76px;
 	color: #616161;
-	padding: 10px;
+	padding: 14px;
 	margin-top: 40px;
 	border: 1px solid #616161;
 	border-radius: 50px;
@@ -156,22 +156,22 @@ h2 i {
 	flex-direction: column;
 }
 
-.fa-html5 {
-	color: #40c4ff;
+.fa-node-js {
+	color: #689f63;
 	margin-bottom: 20px;
 }
-.fa-css3 {
-	color: #40c4ff;
+.fa-vuejs {
+	color: #41b883;
 }
 .fa-wordpress {
-	color: #40c4ff;
+	color: #0a4b78;
 	margin-bottom: 20px;
 
 }
-.fa-github {
+/* .fa-github {
 	color: #40c4ff;
 
-}
+} */
 .fa-bootstrap {
 	color: #40c4ff;
 }

@@ -1299,6 +1299,7 @@ interfaces:
     - sort-up
     - star
     - star-half
+    - surf
     - sync
     - sync-alt
     - thumbs-down
